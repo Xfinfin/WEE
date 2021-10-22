@@ -1,0 +1,66 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+
+
+
+
+<title>1022隨堂測驗</title>
+</head>
+    <body>
+
+  <h1>我是聯大人 </h1>
+
+ <h2>聯大校網</h2>
+ <img src="img/logo.jpg" alt="網站的LOGO應該要在這"><br>
+ <!--img width="500" height="500" src="https://www.nuu.edu.tw/var/file/0/1000/plugin/mobile/pictures/linkdet_452_2100732_65882.jpg"-->
+</center>
+<!--註解https://www.nuu.edu.tw/var/file/0/1000/plugin/mobile/pictures/linkdet_452_2100732_65882.jpg -->
+<a href="https://www.nuu.edu.tw/" target="_blank">聯大校網</a>
+
+<a href="#link01">內部連結</a>
+<a href="#link02">內部連結</a>
+<a href="about.html" target="_blank">外部連結</a>
+
+<pre>
+  
+<p id="link01">
+  <h2>
+    
+    <h1>內部連結01</h1>
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+  </h2>
+</p>
+<p id="link02">
+  <h2>
+    <h1>內部連結02
+    </h1>
+0
+0
+0
+0
+0
+0
+0
+0
+
+  </h2>
+</pre>
+
+      </body>
+</html>
