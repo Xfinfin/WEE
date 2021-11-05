@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>表單測試</title>
+</head>
+<body>
+	<table border="1">
+	<tr>
+	<td width="400" height="400"><img src="a.jpg"></td>	
+	<td>團隊照片1</td>
+	</tr>	
+	<tr>
+	<td width="400" height="400"><img src="a.jpg"></td>	
+	<td>團隊照片2</td>
+	</tr>	
+
+
+
+	</table>
+	<a href="https://www.google.com/search?q=荷爾蒙少年&tbm=nws"target="_blank">
+		賀爾蒙少年的大小新聞
+	</a>
+	<form action="https://www.google.com/search" method="get">
+		<input type="text" name="q">
+		<input type="text" name="nws">
+		<input type="hidden" name="num" value="100">
+		<input type="hidden" name="tbm" value="nws">
+		<input type="submit" value="查詢" > 
+		<input type="submit" value="go">                                                                        
+	</form>
+	<form>
+		<input type="button" value="WEE">
+<BR><input type="checkbox">
+<BR><input type="color">
+<BR><input type="date">
+<BR><input type="datetime-local">
+<BR><input type="email">
+<BR><input type="file">
+<BR><input type="hidden">
+<BR><input type="image">
+<BR><input type="month">
+<BR><input type="number">
+<BR><input type="password">
+<BR><input type="radio">
+<BR><input type="range">
+<BR><input type="reset">
+<BR><input type="search">
+<BR><input type="submit">
+<BR><input type="tel">
+<BR><input type="text">
+<BR><input type="time">
+<BR><input type="url">
+<BR><input type="week">
+	</form>
+
+</body>
+</html>
