@@ -1,5 +1,3 @@
-
-
 <title>1線上書展</title>
 </head>
     <body style="background-color:	#84C1FF;">
@@ -17,7 +15,16 @@
 <a href="#link01">
 獨立出版人帶你逛書展</a>
 <a href="#link02">走讀臺灣</a>
-
+<a href="https://www.sanmin.com.tw/#" target="_blank">三民書局</a>
+</a>
+	<form action="https://www.sanmin.com.tw/#" method="get" target="_blank">
+		<input type="text" name="q">
+		
+		<input type="hidden" name="num" value="100">
+	
+		<input type="submit" value="查詢" > 
+		                                                                      
+	</form>
 
 <pre>
   
@@ -133,7 +140,7 @@ KKbox➡bit.ly/2GgDy4v”
 		<input type="submit" value="go">                                                                        
 	</form>
 	<form>
-		<input type="button" value="WEE">
+		<input type="button" value="搜尋">
 <BR><input type="checkbox">
 <BR><input type="color">
 <BR><input type="date">
